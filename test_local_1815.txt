@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 test memo 1817
 
 test memo 1008
 test mem 1008
+=======
+>>>>>>> parent of bf1d7b5 (test 1817)
